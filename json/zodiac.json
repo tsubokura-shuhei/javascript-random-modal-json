@@ -1,0 +1,74 @@
+[
+  {
+    "ja": "おひつじ座",
+    "latin": "Aries",
+    "text": "1111111111111",
+    "images": "./image/image01.png"
+  },
+  {
+    "ja": "おうし座",
+    "latin": "Taurus",
+    "text": "2222222222222",
+    "images": "./image/image02.png"
+  },
+  {
+    "ja": "ふたご座",
+    "latin": "Gemini",
+    "text": "33333333333",
+    "images": "./image/image03.png"
+  },
+  {
+    "ja": "かに座",
+    "latin": "Cancer",
+    "text": "44444444444",
+    "images": "./image/image01.png"
+  },
+  {
+    "ja": "しし座",
+    "latin": "Leo",
+    "text": "555555555555",
+    "images": "./image/image02.png"
+  },
+  {
+    "ja": "おとめ座",
+    "latin": "Virgo",
+    "text": "666666666666666",
+    "images": "./image/image03.png"
+  },
+  {
+    "ja": "てんびん座",
+    "latin": "Libra",
+    "text": "777777777777",
+    "images": "./image/image01.png"
+  },
+  {
+    "ja": "さそり座",
+    "latin": "Scorpio",
+    "text": "8888888888888",
+    "images": "./image/image02.png"
+  },
+  {
+    "ja": "いて座",
+    "latin": "Sagittarius",
+    "text": "aaaaaaaaaaaaaaaa",
+    "images": "./image/image03.png"
+  },
+  {
+    "ja": "やぎ座",
+    "latin": "Capricorn",
+    "text": "9999999999999",
+    "images": "./image/image01.png"
+  },
+  {
+    "ja": "みずがめ座",
+    "latin": "Aquarius",
+    "text": "10101010101010101010",
+    "images": "./image/image02.png"
+  },
+  {
+    "ja": "うお座",
+    "latin": "Pisces",
+    "text": "bbbbbbbbbbbbbbbbb",
+    "images": "./image/image03.png"
+  }
+]
